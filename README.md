@@ -7,3 +7,10 @@ E-Commerce platform built with the MERN stack & Redux.
 * Mark orders as delivered option.
 * Checkout process (shipping, payment method)
 * PayPal / credit card integration
+## Main Technologies.
+### Client Side
+* React
+* Redux
+### Server Side
+* Node js/Express js
+* MongoDB
