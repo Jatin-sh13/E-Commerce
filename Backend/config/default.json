@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://jatinsh13:jatin@123@cluster0.ncko2.mongodb.net/test",
+    "jwtSecret": "secret",
+    "PAYPAL_CLIENT_ID": "AfRD1_h1VfnQ1I0MuqhVrcX8eebpojvOp6PmnvHxrNQeMaAPLMEsOnlf8pGP99W2St5rsnqe8tHHhlxv"
+}
